@@ -5,7 +5,7 @@
 </head>
 <body>
 	<h1> Hello, World! </h1>
-	<p>Today is :<?php echo date ("d/m/Y") ?> </p>
+	<p>This day is :<?php echo date ("d/m/Y") ?> </p>
 	<p>
 		<?php
 			$now=time();
